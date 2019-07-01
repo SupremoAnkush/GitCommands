@@ -8,6 +8,5 @@
 8.git checkout
 9.git merge
 10.git log
-
 11. git rebase
 12. git revert
