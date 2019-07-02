@@ -10,3 +10,5 @@
 10.git log
 11. git rebase
 12. git revert
+13. git branch
+14. git stash
