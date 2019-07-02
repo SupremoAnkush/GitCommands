@@ -8,3 +8,5 @@
 8.git checkout
 9.git merge
 10.git log
+11. git history
+12. git stash
